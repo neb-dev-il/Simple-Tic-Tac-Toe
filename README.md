@@ -2,6 +2,8 @@
 
 Everybody remembers this paper-and-pencil game from childhood: Tic-Tac-Toe, also known as Noughts and crosses or Xs and Os. A single mistake usually costs you the game, but thankfully it is simple enough that most players discover the best strategy quickly.
 
+https://user-images.githubusercontent.com/93135239/193874368-f84f6902-e53f-453e-8e3d-69197c25cd28.mp4
+
 ## Example
 
 The example below shows how your program should work.
